@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7819236dea8e483f499bbd23",
+  "owner": "ngunmmqadk",
+  "repo": "page-e4937437272acefb7f7349f4",
+  "title": "翻墙机场(GFWAirPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e4937437272acefb7f7349f4",
+      "a": "翻墙机场(GFWAirPort)",
+      "b": "稳定全球clash加速器",
+      "entity": "翻墙机场(GFWAirPort)",
+      "brand": "翻墙机场(GFWAirPort)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9bf3bb41e29eba0c47a842bc3db5e3b169da6a18b419f22be3659eb9a8be663a",
+      "content": {
+        "primary_entity": "翻墙机场(GFWAirPort)",
+        "keyword1": "翻墙机场(GFWAirPort)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择 Clash 系列客户端，订阅配置一次即可同步使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "准备开始",
+          "AI_DESCRIPTION": "，以 Clash 订阅配置为核心，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备；团队版每月 1000GB 流量、20 台设备。订阅周期按年付有优惠，设备需求少的用户选基础版，需要流媒体与专线优化的选旗舰版，多设备或企业场景选团队版。",
+          "AI_FEATURES_INTRO": "从流量、设备和订阅周期三个维度快速匹配。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 与 3 台设备适合轻度使用，旗舰版每月 300GB 与 5 台设备适合日常主力，团队版每月 1000GB 与 20 台设备适合多人共享。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，分别仅需 ¥150/年、¥350/年、¥850/年，长期使用可减少续费频率。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选",
+          "AI_FEATURE_TITLE_2": "按权益差异选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅的配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "翻墙机场(GFWAirPort)面向需要稳定全球 Clash 加速的用户，提供基础版、旗舰版和团队版三档套餐。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，可按使用强度灵活选择，并支持按年付获取更低的月均成本。",
+          "AI_HERO_SUBTITLE": "稳定 Clash 加速，套餐灵活可选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到多人场景",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付月均成本更低",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备以内轻度使用；旗舰版适合需要流媒体与游戏加速的 5 台设备用户；团队版适合 20 台设备或企业路由场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数，在基础版、旗舰版与团队版之间做初步选择。",
+          "AI_STEP_TEXT_2": "查看套餐对应的设备数量、流媒体解锁与专线权益，确认是否符合日常使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅配置，按客户端文档完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "稳定 Clash 加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：3 台以内选基础版，5 台左右选旗舰版，20 台可选团队版。再对照月流量，基础版 100GB 适合轻度使用，旗舰版 300GB 适合日常多设备，团队版 1000GB 适合多人共用。",
+          "AI_FAQ_QUESTION_2": "套餐支持哪些设备？",
+          "AI_FAQ_ANSWER_2": "套餐按同时在线的设备数量区分，具体可用的设备类型取决于所选客户端。手机、电脑、平板等常用终端可在对应系统中选择客户端，并按文档导入订阅使用。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按 ¥15、¥35、¥85 三档按月计费，年付则分别按 ¥150、¥350、¥850 一次性支付一年，折算每月费用更低。流量和设备权益在对应套餐内保持一致。",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所用客户端中找到订阅或配置导入入口，粘贴订阅地址后更新节点列表，再选择节点连接。不同客户端的菜单名称和位置不完全相同，按对应文档操作即可。",
+          "AI_FAQ_QUESTION_5": "流量用完后可以升级套餐吗？",
+          "AI_FAQ_ANSWER_5": "套餐按流量档位区分，当月流量接近上限时可根据设备数量和用量考虑改选更高一档。具体升级方式与生效时间可参考订阅说明或联系支持渠道确认。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "krlazif.cn",
+    "host": "krlazif.cn"
+  },
+  "file_hashes": {
+    "index.html": "569e47f60bec01f23dc51acf28ff0dbdb4f73392683617d9b1050300abd31fa8",
+    "sitemap.xml": "dbf65e535cbb01effa0e3ac71930b6a26b1ea160c1b4e655fffdad0f60da118e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4f014214f7aac81cf060bcf5bd78ac48611e5bc8bcdc9eb47488e91a7c2f2346",
+    "robots.txt": "b1b23f3232384f1f2e198bca6860594e6c72a894350bf7254778ca58d58760b3",
+    "17424718fd124f80f073e60f91dc3a47.txt": "43e88f4538a17883aec14d02fa8a9e07061aa5464e1e5c1fd1c4ed1564d4a2ac"
+  },
+  "revision": "9cb37713c3fe7f7e4c257addde9dd75806c292f9dc80f31222bf13214ae024dd"
+}
